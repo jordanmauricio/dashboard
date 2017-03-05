@@ -1,11 +1,22 @@
-React-based app for TRIMM's client's feedback.
+# Energy Dashboard
+Work in progress. 
 
+```sh 
+npm install
 ```
+
+To run with hot reload
+```sh
 npm start
 ```
 
-ToDo:
-http://react.tips/radio-buttons-in-reactjs/
-Explains how to keep track of the buttons.
+To hot reload styling as well
+```sh
+npm run watch
+```
 
-Send to rebase on submit.
+Log
+---
+27/2/2017
+React.createElement type is invalid error. Apparently has to do with the export method of the App.
+
