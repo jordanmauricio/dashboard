@@ -1,0 +1,187 @@
+{
+    "User": {
+        "firstName": "Douglas",
+        "lastName": "Potter",
+        "userId": "JZ01-2507771",
+        "email": "potter@sample.com",
+        "password": "password",
+        "photo": "",
+        "balance": 872.15
+    },
+
+    "Plans": [
+        {
+            "name": "Fast Furious",
+            "price": 85.00,
+            "trafficQuantity": 100.50,
+            "download": 10.76,
+            "upload": 5.80
+        },
+
+        {
+            "name": "Black Pearl",
+            "price": 100.00,
+            "trafficQuantity": 200.50,
+            "download": 20.50,
+            "upload": 10.35
+        },
+
+        {
+            "name": "Ghost Rider",
+            "price": 250,
+            "trafficQuantity": "Unlimited",
+            "download": 30.88,
+            "upload": 15.70
+        }
+    ],
+
+    "Payments": [
+        {
+            "date": "2016-07-31T04:58:38 -02:00",
+            "service": "Monthly payments",
+            "amount": 13.5465,
+            "taxes": 7.794
+        },
+        {
+            "date": "2017-02-23T09:03:46 -01:00",
+            "service": "Overcharges",
+            "amount": 57.4532,
+            "taxes": 4.4818
+        },
+        {
+            "date": "2016-08-16T11:02:20 -02:00",
+            "service": "Monthly payments",
+            "amount": 46.5933,
+            "taxes": 3.9311
+        },
+        {
+            "date": "2017-01-31T02:13:15 -01:00",
+            "service": "Monthly payments",
+            "amount": 87.8061,
+            "taxes": 14.888
+        },
+        {
+            "date": "2016-10-19T01:04:15 -02:00",
+            "service": "Monthly payments",
+            "amount": 16.4788,
+            "taxes": 14.1716
+        },
+        {
+            "date": "2016-10-14T09:30:01 -02:00",
+            "service": "Monthly payments",
+            "amount": 9.9983,
+            "taxes": 1.5418
+        },
+        {
+            "date": "2016-10-20T02:59:46 -02:00",
+            "service": "Monthly payments",
+            "amount": 28.4569,
+            "taxes": 7.8395
+        },
+        {
+            "date": "2016-08-27T01:03:49 -02:00",
+            "service": "Monthly payments",
+            "amount": 42.546,
+            "taxes": 1.5204
+        },
+        {
+            "date": "2016-10-31T06:32:07 -01:00",
+            "service": "Overcharges",
+            "amount": 85.7422,
+            "taxes": 2.6946
+        },
+        {
+            "date": "2017-02-07T01:03:27 -01:00",
+            "service": "Monthly payments",
+            "amount": 22.7967,
+            "taxes": 3.7454
+        },
+        {
+            "date": "2016-05-25T04:30:11 -02:00",
+            "service": "Overcharges",
+            "amount": 72.5124,
+            "taxes": 3.9538
+        },
+        {
+            "date": "2016-03-22T08:55:11 -01:00",
+            "service": "Monthly payments",
+            "amount": 48.9615,
+            "taxes": 4.7998
+        }
+    ],
+
+    "Expenses": [
+        {
+            "date": "2016-12-22T09:54:33 -01:00",
+            "downloaded": 499.2345,
+            "uploaded": 49.6083,
+            "tariff": "Fast Furious"
+        },
+        {
+            "date": "2016-08-26T01:41:49 -02:00",
+            "downloaded": 213.5666,
+            "uploaded": 99.9964,
+            "tariff": "Fast Furious"
+        },
+        {
+            "date": "2016-09-25T01:36:13 -02:00",
+            "downloaded": 121.2344,
+            "uploaded": 79.2873,
+            "tariff": "Fast Furious"
+        },
+        {
+            "date": "2016-09-30T12:58:34 -02:00",
+            "downloaded": 176.9015,
+            "uploaded": 28.7618,
+            "tariff": "Black Pearl"
+        },
+        {
+            "date": "2017-01-15T09:39:15 -01:00",
+            "downloaded": 222.3004,
+            "uploaded": 50.3398,
+            "tariff": "Ghost Rider"
+        },
+        {
+            "date": "2017-01-01T10:16:29 -01:00",
+            "downloaded": 341.3323,
+            "uploaded": 77.6301,
+            "tariff": "Ghost Rider"
+        },
+        {
+            "date": "2016-12-10T12:52:01 -01:00",
+            "downloaded": 286.0745,
+            "uploaded": 90.0936,
+            "tariff": "Ghost Rider"
+        },
+        {
+            "date": "2017-02-18T11:41:38 -01:00",
+            "downloaded": 253.4513,
+            "uploaded": 72.0384,
+            "tariff": "Ghost Rider"
+        },
+        {
+            "date": "2016-09-02T11:22:40 -02:00",
+            "downloaded": 379.5565,
+            "uploaded": 5.4943,
+            "tariff": "Ghost Rider"
+        },
+        {
+            "date": "2016-12-28T08:11:00 -01:00",
+            "downloaded": 360.6984,
+            "uploaded": 48.8213,
+            "tariff": "Black Pearl"
+        },
+        {
+            "date": "2016-11-30T09:52:40 -01:00",
+            "downloaded": 162.031,
+            "uploaded": 53.0651,
+            "tariff": "Black Pearl"
+        },
+        {
+            "date": "2016-12-26T10:38:53 -01:00",
+            "downloaded": 206.1441,
+            "uploaded": 97.4012,
+            "tariff": "Ghost Rider"
+        }
+    ]
+}
